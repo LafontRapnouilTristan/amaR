@@ -14,11 +14,9 @@ answer2reviewers <- function(reviewerID=1) {
     stop("WTF!! How many reviewers do you have on your back!!!!")
   }
 
-  tmp <- get("reviewer", pos = "package:amaR")
+  load("data/reviewers.rda")
 
-  lineID <- suppressWarnings(sample(1:length(tmp),1))
-
-  print(readLines(paste0("data/reviewer",lineID,".txt"),warn = F)[1])
+  print(sample(reviewers[,paste0("Reviewer_",reviewerID)],1))
 
 }
 
