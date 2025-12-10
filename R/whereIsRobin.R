@@ -11,7 +11,7 @@
 
 whereIsRobin <- function(){
 
-  plot(imager::load.image("data/behindyou.png"),axes = F)
+  plot(imager::load.image("data-raw/behindyou.png"),axes = F)
   print("BEHIND YOU!!!")
 
 }
