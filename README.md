@@ -8,10 +8,10 @@ An R package for Ama 💚
 🌋🌋🌋🌋🌋🌋🌋🌋🌋🌋🌋🌋🌋🌋🌋🌋🌋🌋🌋🌋🌋🌋🌋🌋🌋🌋🌋
 
 Congrats Ama!! You freakin' did it!
-Hope you enjoyed most of it <3
+Hope you enjoyed most of it 💙
 We wish you the very best for whatever you decide to do next!
 
-Here is a little package just for you :)
+Here is a little package just for you 😃
 
 ## Available functions 📚
 
