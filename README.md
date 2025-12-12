@@ -13,6 +13,13 @@ We wish you the very best for whatever you decide to do next!
 
 Here is a little package just for you 😃
 
+## Installation
+
+Run
+```
+remotes::install_github("https://github.com/LafontRapnouilTristan/amaR")
+```
+
 ## Available functions 📚
 
 ```answer2reviewers```: you can run `answer2reviewers(1)` to generate an answer for you first reviewer.
