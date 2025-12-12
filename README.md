@@ -17,7 +17,12 @@ Here is a little package just for you 😃
 
 Run
 ```
+# From github
 remotes::install_github("https://github.com/LafontRapnouilTristan/amaR")
+
+# From source (.tar.gz file)
+install.packages("imager")
+install.packages("PATH_TO_FILE/amaR_0.1.0.tar.gz", repos = NULL, type="source")
 ```
 
 ## Available functions 📚
